@@ -7,3 +7,4 @@ Beginner Python programs and practice exercises.
 - calculator.py
 - even_odd.py
 - largest_number.py
+- multiplication_table.py
