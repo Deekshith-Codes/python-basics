@@ -8,3 +8,4 @@ Beginner Python programs and practice exercises.
 - even_odd.py
 - largest_number.py
 - multiplication_table.py
+- factorial.py
